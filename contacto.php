@@ -9,7 +9,7 @@
   <head>
     <link rel="stylesheet" href="style.css">
   </head>
-  <body>
+  <body bgcolor="C9FFA2">
     <br><br>
     <center><p class="formTitle">Registro</p></center>
     <br><br><hr>
