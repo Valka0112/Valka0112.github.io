@@ -52,7 +52,7 @@
     $Telefono = $_POST['telefono'];
     $Asunto = $_POST['asunto'];
     $Mensaje = $_POST['mensaje'];
-    $insertarDatos = "INSERT INTO contacto VALUES ('$Nombre','$Email','$Telefono','$Asunto','$Mensaje')";
+    $insertarDatos = "INSERT INTO formulario VALUES ('$Nombre','$Email','$Telefono','$Asunto','$Mensaje')";
     
     $ejecutarInsertar = mysqli_query($enlace, $insertarDatos);
     if(!$ejecutarInsertar){
