@@ -8,6 +8,9 @@
 <html>
   <head>
     <link rel="stylesheet" href="style.css">
+    <style>
+      .formTitle{font-size:35px;}
+    </style>
   </head>
   <body bgcolor="C9FFA2">
     <br><br>
