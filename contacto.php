@@ -10,13 +10,14 @@
     <link rel="stylesheet" href="style.css">
     <style>
       .formTitle{font-size:35px;}
+      *{padding: 0; margin: 0; box-sizing:border-box; font-family:'Courier New', Courier, monospace;}
     </style>
   </head>
   <body bgcolor="C9FFA2">
     <br><br>
     <center><p class="formTitle">Registro</p></center>
     <br><br><hr>
-    <form action="contacto.php" method="POST">
+    <form action="contacto.php" method="POST"><br><br>
       <center><table cellspacing="30px">
         <tr>
           <td><label>Nombre Completo</label></td>
