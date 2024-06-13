@@ -52,7 +52,7 @@ table{margin:20px;}
     color:rgba(165, 255, 75, 0.505);
 }
 .masproduc{
-    width:370px; height:300px;
+    width:370px; height:100px;
     background-color:rgba(205, 254, 156, 0.505);
 }
 .preciostabl{
@@ -67,9 +67,4 @@ table{margin:20px;}
     float:inline-start;
     height:200px;
     margin-left:170px;
-}
-.produc{
-    background-color:rgba(205, 254, 156, 0.505);
-    width:400px;
-    height:400px;
 }
