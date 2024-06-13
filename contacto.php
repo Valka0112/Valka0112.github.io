@@ -12,6 +12,7 @@
       .formTitle{font-size:35px;}
       *{padding: 0; margin: 0; box-sizing:border-box; font-family:'Courier New', Courier, monospace;}
     </style>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
   </head>
   <body bgcolor="C9FFA2">
     <br><br>
