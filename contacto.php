@@ -49,6 +49,17 @@
       </table>
     </form>
   </body>
+  <table>
+        <p class="plantilla">
+            <img src="imagenes/RECLIB.png" class="logoplantilla">
+            <br><br>
+            RECLIB <br>
+            Intagram: reclib_ <br>
+            Facebook: Reclib <br>
+            Email: reclib.microempresa@gmail.com <br>
+            <br><br><br>
+        </p>
+    </table>
 </html>
 <?php
   if(isset($_POST['enviar'])){
